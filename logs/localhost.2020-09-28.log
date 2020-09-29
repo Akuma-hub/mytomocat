@@ -1,0 +1,24 @@
+28-Sep-2020 13:22:52.431 信息 [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+28-Sep-2020 13:22:52.665 信息 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+28-Sep-2020 13:22:59.119 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+28-Sep-2020 13:22:59.119 信息 [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+28-Sep-2020 13:22:59.134 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@76e00bdb')
+28-Sep-2020 13:23:35.619 信息 [http-nio-8080-exec-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'springmvc'
+28-Sep-2020 16:13:52.943 信息 [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+28-Sep-2020 16:13:53.115 信息 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+28-Sep-2020 16:14:00.474 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+28-Sep-2020 16:14:00.474 信息 [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+28-Sep-2020 16:14:00.474 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@32a4ea4e')
+28-Sep-2020 16:15:05.770 信息 [http-nio-8080-exec-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'springmvc'
+28-Sep-2020 16:56:08.326 信息 [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+28-Sep-2020 16:56:08.623 信息 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+28-Sep-2020 16:56:15.935 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+28-Sep-2020 16:56:15.935 信息 [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+28-Sep-2020 16:56:15.951 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@32a4ea4e')
+28-Sep-2020 16:58:10.451 信息 [http-nio-8080-exec-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'springmvc'
+28-Sep-2020 20:18:29.039 信息 [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+28-Sep-2020 20:18:29.211 信息 [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+28-Sep-2020 20:18:36.133 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+28-Sep-2020 20:18:36.133 信息 [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+28-Sep-2020 20:18:36.133 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@77ce8bc5')
+28-Sep-2020 21:09:45.193 信息 [http-nio-8080-exec-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'springmvc'
